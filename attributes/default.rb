@@ -17,7 +17,7 @@
 # limitations under the License.
 #
 
-default['thrift']['version']  = '0.9.0'
+default['thrift']['version']  = '0.9.1'
 default['thrift']['mirror']   = 'http://apache.mirrors.tds.net'
-default['thrift']['checksum'] = '71d129c49a2616069d9e7a93268cdba59518f77b3c41e763e09537cb3f3f0aac'
+default['thrift']['checksum'] = 'ac175080c8cac567b0331e394f23ac306472c071628396db2850cb00c41b0017'
 default['thrift']['configure_options'] = []
